@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Environnement virtuel
+.env
+.venv/
+venv/
+ENV/
+
+# Logs
+*.log
+
+# Mac OS
+.DS_Store
+
+# Docker
+docker-compose.override.yml
+docker/*.pid
+
+
+# IDEs
+.vscode/
+.idea/
